@@ -1,12 +1,10 @@
 # Hi, I'm Kenan 👋
 
+Open to Junior Unity / Game Developer opportunities.
+
 ### Unity Game Developer | C# | Mobile Games | Gameplay Systems
 
-I develop games and gameplay systems with Unity and C#.
-
-I have published a mobile puzzle game on Google Play and I am currently developing two playable projects focused on custom gameplay systems, editor tooling, and 3D management mechanics.
-
----
+Unity Game Developer focused on gameplay systems, mobile games, and editor tooling. I have published a mobile puzzle game on Google Play and I'm currently developing two playable Unity projects.
 
 ## 🎮 Featured Projects
 
